@@ -2,9 +2,9 @@
 
 This project aims to optimize a provided website with a number of optimization- and performance-related issues so that it achieves a target PageSpeed score and runs at 60 frames per second. As web applications become increasingly interactive and accessed on a variety of devices there are a variety of opportunities in which performance issues can hinder the user experience. This project presents a number of those performance issues.
 
-Open and view the Project using the .zip file provided or at my [Github Repository](https://github.com/madhur-taneja/Web-Optimization-Checking).
+Open and view the Project using the .zip file provided or at my [Github Repository](https://github.com/andi-nugroho/web-optimization-checking).
 
-The project is also hosted on [GitHub](https://madhur-taneja.github.io/Web-Optimization-Checking/)
+The project is also hosted on [GitHub](https://github.com/andi-nugroho/web-optimization-checking)
 
 ## Table of Contents
 - [Getting Started](#getting-started)
